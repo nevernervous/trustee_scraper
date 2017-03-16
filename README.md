@@ -1,3 +1,5 @@
-### Whats's it for?
-Scrape data from many sites and check it from google map and zillow.
-To avoid anti-scraping system, use proxy server.
+### Installation
+
+- Install Python2.7
+- pip install -r requirements.txt
+- python ./manage.py runserver
